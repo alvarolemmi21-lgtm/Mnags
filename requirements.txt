@@ -1,3 +1,2 @@
-
-TELEGRAM_BOT_TOKEN = 8577254503:AAG2HQE2S0fMjmNgR6a9WVdtn1S-9n9fGLc
-OPENAI_API_KEY = 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
+python-telegram-bot==20.7
+openai
